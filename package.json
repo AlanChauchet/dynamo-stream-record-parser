@@ -63,7 +63,5 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.8.3"
   },
-  "dependencies": {
-    "big-integer": "^1.6.48"
-  }
+  "dependencies": {}
 }
